@@ -41,7 +41,7 @@
               <h5 class="center">Secretary</h5>
               <b-card-text class="center">
                 <i>Health Sciences | Class of 2023</i>
-                <p>Resident Boba Fiend!</p>
+                <p>I like bubble tea and going to concerts!</p>
               </b-card-text>
             </b-card>
           </b-col>
@@ -70,7 +70,7 @@
               <h5 class="center">Corporate Relations Chair</h5>
               <b-card-text class="center">
                 <i>Computer Engineering | Class of 2022</i>
-                <p>I love to code and make friends!</p>
+                <p>II am a junior studying Computer Engineering! I love long skates and hammock sessions on the esplanade.</p>
               </b-card-text>
             </b-card>
           </b-col>
@@ -118,7 +118,7 @@
               <h5 class="center">Technology Media Chair</h5>
               <b-card-text class="center">
                 <i>Psychology + Computer Science | Class of 2021</i>
-                <p>I love SASE and friends! Ask me about psychology!</p>
+                <p>I really like matcha. It is always been green tea, matcha ice cream, matcha mochi etccc... HMU with suggestions for matcha recipe!</p>
               </b-card-text>
             </b-card>
           </b-col>
