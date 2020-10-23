@@ -63,7 +63,7 @@
             <h2>Bloomberg</h2>
             <p>Bloomberg is the global leader in business and financial data, news and insight. Using the power of technology, we connect the world’s decision makers to accurate information on the financial markets – and help them make faster, smarter decisions.
             </p>
-            <h5>Speakers: Jack "Hanchong" Jin</h5>
+            <h5>Speaker: Jack "Hanchong" Jin</h5>
               <p style="margin: 0">BU SASE Alum ‘20.</p>
               <p style="margin: 0">Software Engineer at Bloomberg LP.</p>
           </div>
@@ -201,7 +201,7 @@ export default {
   }
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 768px) {
   .leftCard, .rightCard {
     flex-direction: column;
   }
