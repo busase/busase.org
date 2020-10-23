@@ -19,6 +19,11 @@ const routes = [
     name: 'eboard',
     component: () => import('@/views/EBoard.vue'),
   },
+  {
+    path: '/networking',
+    name: 'networking',
+    component: () => import('@/views/Networking.vue'),
+  },
 ];
 
 const router = new VueRouter({

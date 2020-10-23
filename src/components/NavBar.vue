@@ -10,6 +10,9 @@
       <b-collapse id="nav-text-collapse" is-nav>
         <b-navbar-nav style="margin-left: auto">
           <b-nav-text>
+            <router-link to="networking" class="link">Networking Night</router-link>
+          </b-nav-text>
+          <b-nav-text>
             <router-link to="events" class="link">Events</router-link>
           </b-nav-text>
           <b-nav-text>
