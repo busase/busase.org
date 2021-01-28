@@ -14,7 +14,7 @@
             <b-card class="h-100">
               <img class="circle" src="../assets/eboard/aj.jpg" alt />
               <h3 class="center">Amartya 'AJ' Naik</h3>
-              <h5 class="center">Presidentssssssssssssssssss</h5>
+              <h5 class="center">President</h5>
               <b-card-text class="center">
                 <i>Biomedical Engineering | Class of 2021</i>
                 <p>I'm your typical anime and manga geek, love design & engineering and am a HUGE Lindsey Stirling fan!</p>
