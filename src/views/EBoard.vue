@@ -118,7 +118,7 @@
               <h5 class="center">Technology Media Chair</h5>
               <b-card-text class="center">
                 <i>Psychology + Computer Science | Class of 2021</i>
-                <p>I really like matcha. It is always been green tea, matcha ice cream, matcha mochi etccc... HMU with suggestions for matcha recipe!</p>
+                <p>I really like green tea. It is always been green tea, green tea ice cream, green tea mochi etccc... HMU with suggestions for matcha recipe!</p>
               </b-card-text>
             </b-card>
           </b-col>
