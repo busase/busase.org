@@ -1,6 +1,6 @@
 <template>
   <div style="position: absolute; width: 100%; z-index: 1">
-    <b-navbar toggleable="md" type="light" variant="light" class="navBack">
+    <!-- <b-navbar toggleable="md" type="light" variant="light" class="navBack">
       <b-navbar-brand>
         <router-link to="/">
           <img src="../assets/SASE.png" alt style="height: 2.5rem" />
@@ -20,7 +20,7 @@
           </b-nav-text>
         </b-navbar-nav>
       </b-collapse>
-    </b-navbar>
+    </b-navbar> -->
   </div>
 </template>
 

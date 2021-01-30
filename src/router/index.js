@@ -9,21 +9,21 @@ const routes = [
     name: 'home',
     component: () => import('@/views/Home.vue'),
   },
-  {
-    path: '/events',
-    name: 'events',
-    component: () => import('@/views/Events.vue'),
-  },
-  {
-    path: '/eboard',
-    name: 'eboard',
-    component: () => import('@/views/EBoard.vue'),
-  },
-  {
-    path: '/networking',
-    name: 'networking',
-    component: () => import('@/views/Networking.vue'),
-  },
+  // {
+  //   path: '/events',
+  //   name: 'events',
+  //   component: () => import('@/views/Events.vue'),
+  // },
+  // {
+  //   path: '/eboard',
+  //   name: 'eboard',
+  //   component: () => import('@/views/EBoard.vue'),
+  // },
+  // {
+  //   path: '/networking',
+  //   name: 'networking',
+  //   component: () => import('@/views/Networking.vue'),
+  // },
 ];
 
 const router = new VueRouter({

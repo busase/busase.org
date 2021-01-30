@@ -11,7 +11,7 @@
             pill
             class="join"
             variant="outline-dark"
-            href="https://docs.google.com/forms/d/e/1FAIpQLSeAh6CYRhact6711Ac4KNA6ZsXY3onUCs1xS-9K3dkzm8lJWQ/viewform"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSd97STQdGRzF_XyJZNkFebqxPz_RAx5cKw7shV7vOiIJfyb2Q/viewform?usp=sf_link"
           >Join BU SASE!</b-button>
         </div>
       </b-container>
@@ -34,61 +34,52 @@
     <section id="fall-events">
       <div class="flexc">
         <div class="left-text">
-          <h2 style="margin: 0;">General Board Meeting 1</h2>
-          <i style="font-size: 1.2rem;">Date: September 18th | Time: TBD</i>
+          <h2 style="margin: 0;">General Body Meeting 1</h2>
+          <i style="font-size: 1.2rem;">Date: February 5th | Time: 7-8 PM EST</i>
           <br />
           <br />
           <p
             style="font-size: 1.25rem"
-          >Our first general body meeting of the year will feature fun virtual icebreakers and an overview of everything SASE-related for the entire semester. Come by to learn more about our club, our upcoming events, our Fall Mentorship Program and get to know your e-board and fellow SASE members! #SASEfam</p>
+          >SASE will host its first General Body Meeting of 2021 on Friday, February 5th at 7 - 8 PM EST. Meet our wonderful e-board, mingle with past and present members, and come learn more about our upcoming events at BU SASE. We have some fun icebreakers planned, a quick raffle to win a $20 gift card, and some important event announcements for the semester. Hope to see you there soon!</p>
         </div>
         <div class="right-photo" id="gbm1"></div>
       </div>
       <div class="flexc">
-        <div class="left-photo" id="nationals"></div>
+        <div class="left-photo" id="nerc"></div>
         <div class="right-text">
-          <h2 style="margin: 0;">Nationals 2020</h2>
-          <i style="font-size: 1.2rem;">Date: October 9-10th</i>
+          <h2 style="margin: 0;">NERC 2021</h2>
+          <i style="font-size: 1.2rem;">Date: February 27th + March 6th</i>
           <br />
           <br />
           <p style="font-size: 1.25rem">
-            Every year, our national organization hosts a conference dedicated to professional development and enriching the careers of collegiate chapters with job opportunities, keynote speeches and skill-based workshops. This year, the conference is going virtual! Learn more about the conference + career fair
+            The Northeast Regional Conference 2021 is upon us within a month! The STEM conference will be held on Saturday, February 27th and the virtual STEM Career Fair will be held on Saturday, March 6th. Every year, NERC provides you a professional platform to meet other SASE affiliates and company representatives across the northeast. This is a wonderful opportunity to search for internships and full-time job offers as well as improve your overall networking skills. Darrion Nguyen, deemed the "Bill Nye of Millenials" for his excellence in blending comedic skits with scientific thought will be the conference's main keynote speake. Finally, the list of companies for the career fair are as follows: University of Michigan, Lockheed Martin, GE Aviation, FENIX International Group, Drexel University Engineering, MIT Lincoln Labs, Exelon, Stonefield Engineering & Design, Boston Scientific, FDNY, Drexel CCI, and Dell Boomi.
+          </p>
+          <p style="font-size: 1.25rem">
+            If interested, please sign our 
             <a
-              href="https://conference.saseconnect.org/?gclid=EAIaIQobChMIruikq9PO6wIVDb7ACh3DZQkKEAAYASAAEgLYbPD_BwE"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSfHld37ng07Cl2UW7OOl-JBvgMEl4EjDZ72K9l5dgQCRMgbIQ/viewform"
               style="color: white; text-decoration: underline"
-            >here</a> and
-            sign up on our
+            >interest form</a> to be eligible for our chapter package registration discount. For more information about the conference, you can visit 
             <a
-              href="https://forms.gle/QhvsH5nxXH4Yst6i6"
+              href="http://saseneregion.weebly.com/"
               style="color: white; text-decoration: underline"
-            >interest form</a> if you’re interested! #SASENC2020 #VIRTUAL
+            >this website</a>.
           </p>
         </div>
       </div>
       <div class="flexc">
         <div class="left-text">
-          <h2 style="margin: 0;">General Board Meeting 2 - Mentorship</h2>
-          <i style="font-size: 1.2rem;">Date: TBD | Time: TBD</i>
+          <h2 style="margin: 0;">Innovation Symposium</h2>
+          <i style="font-size: 1.2rem;">Date: February 26th | Time: 6:30-8:30 PM EST</i>
           <br />
           <br />
           <p
             style="font-size: 1.25rem"
-          >Our 2nd GBM of the semester will be held in October. The theme is all about Mentorship where our Fall Mentorship Program will officially begin with the reveal of our Mentors and Mentees. Save the date and in the meantime, sign up to be either a mentor or mentee if you’re interested!</p>
+          >Save the date as SASE will be hosting its annual Innovation Symposium on Friday, February 26th from 6:30 - 8:30 PM! Innovation Symposium is a forum where we invite professors, students and company representatives across the greater Boston area to present their research and discuss the contributions of their field to the advancement of STEM. For those students looking to get involved in research, this event provides you with an inside-scoop of some of the latest efforts in STEM research across various fields of study. Speakers and representatives will be announced in the coming weeks so stay tuned!</p>
         </div>
-        <div class="right-photo" id="gbm2"></div>
+        <div class="right-photo" id="innovation"></div>
       </div>
-      <div class="flexc">
-        <div class="left-photo" id="networking"></div>
-        <div class="right-text">
-          <h2 style="margin: 0;">Networking Night</h2>
-          <i style="font-size: 1.2rem;">Date: October 23rd | Time: 6:30-8:30 PM</i>
-          <br />
-          <br />
-          <p
-            style="font-size: 1.25rem"
-          >This October, SASE will be hosting its annual Fall Networking Night virtually. As one of our biggest professional events of the semester, this event is a great opportunity to network with professionals from various industries in STEM and learn more about opportunities available in the current or future job market! Save the date and await more updates in the future!</p>
-        </div>
-      </div>
+     
     </section>
   </div>
 </template>
@@ -159,15 +150,13 @@ export default {
 #gbm1 {
   background: url("../assets/gbm1.jpg") center center / cover;
 }
-#nationals {
-  background: url("../assets/nationals.jpg") center center / cover;
+#nerc {
+  background: url("../assets/nerc.jpg") center center / cover;
 }
-#gbm2 {
-  background: url("../assets/gbm2.jpg") center center / cover;
+#innovation {
+  background: url("../assets/innovation.jpg") center bottom / cover;
 }
-#networking {
-  background: url("../assets/networking.jpg") center center / cover;
-}
+
 
 @media screen and (max-width: 991px) {
   .flexc {
